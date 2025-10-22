@@ -1,0 +1,5 @@
+#Day:01 Topic
+# 1. What is Python, why and how to setup the environment?
+# 2. First python program run and Explanation step by step.
+# 3. Python Comments: single &  multi-line or (Block) comments
+# 4. Python Variable: rules & usages
